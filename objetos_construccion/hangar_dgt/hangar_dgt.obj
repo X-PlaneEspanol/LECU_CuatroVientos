@@ -1855,6 +1855,5 @@ IDX	1598
 # MATERIAL: hangar_dgt
 ATTR_shiny_rat	0.5
 TRIS	0 2364
-# 1 Camera: Camera
 
-# Build with Blender 2.78 (sub 0) (build b'e92f235283'). Exported with XPlane2Blender 3.5.0-dev.0+40.NO_BUILD_NUMBR
+# Build with Blender 2.79 (sub 0) (build b'f4dc9f9d68b'). Exported with XPlane2Blender 3.5.0-rc.1+40.20181016150257
